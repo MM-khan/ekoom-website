@@ -1,0 +1,27 @@
+[
+    {
+        "id":6,
+        "category":"bilding",
+        "img":"./imges/bilding.jpg"
+    },
+    {
+        "id":7,
+        "category":"bilding",
+        "img":"./imges/bilding2.jpg"
+    },
+    {
+        "id":8,
+        "category":"bilding",
+        "img":"./imges/bilding3.jpg"
+    },
+    {
+        "id":9,
+        "category":"bilding",
+        "img":"./imges/bilding4.jpg"
+    },
+    {
+        "id":10,
+        "category":"bilding",
+        "img":"./imges/bilding5.jpg"
+    }
+]

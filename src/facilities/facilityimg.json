@@ -1,0 +1,17 @@
+[
+    {
+        "id":16,
+        "category":"facilty",
+        "img":"./imges/facilty.jpg"
+    },
+    {
+        "id":17,
+        "category":"facilty",
+        "img":"./imges/facilty2.jpg"
+    },
+    {
+        "id":18,
+        "category":"facilty",
+        "img":"./imges/facilty3.jpg"
+    }
+]
